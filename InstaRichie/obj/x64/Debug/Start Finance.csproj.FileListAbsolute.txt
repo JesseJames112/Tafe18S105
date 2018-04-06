@@ -269,3 +269,4 @@ D:\Start_Finance\Tafe18S105\InstaRichie\obj\x64\Debug\Microsoft.Xaml.Interaction
 D:\Start_Finance\Tafe18S105\InstaRichie\obj\x64\Debug\Microsoft.Xaml.Interactivity.pri.xml
 D:\Start_Finance\Tafe18S105\InstaRichie\obj\x64\Debug\Template10Library.pri.xml
 D:\Start_Finance\Tafe18S105\InstaRichie\obj\x64\Debug\ProjectArchitectures.txt
+D:\Start_Finance\Tafe18S105\InstaRichie\obj\x64\Debug\Start Finance.csprojResolveAssemblyReference.cache
