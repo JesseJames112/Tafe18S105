@@ -11,6 +11,16 @@
     <RootPropertyPathName Name="DebtName" />
     <RootPropertyPathName Name="DateofDebt" />
     <RootPropertyPathName Name="Value" />
+<<<<<<< HEAD
+=======
+    <RootPropertyPathName Name="MobilePhone" />
+    <RootPropertyPathName Name="Email" />
+    <RootPropertyPathName Name="Gender" />
+    <RootPropertyPathName Name="DOB" />
+    <RootPropertyPathName Name="LastName" />
+    <RootPropertyPathName Name="FirstName" />
+    <RootPropertyPathName Name="PersonalID" />
+>>>>>>> remotes/origin/feat_PersonalInfo
     <RootPropertyPathName Name="AboutPartViewModel" />
     <RootPropertyPathName Name="Version" />
     <RootPropertyPathName Name="Publisher" />
@@ -19,11 +29,14 @@
     <RootPropertyPathName Name="SettingsPartViewModel" />
     <RootPropertyPathName Name="UseLightThemeButton" />
     <RootPropertyPathName Name="UseShellBackButton" />
+<<<<<<< HEAD
     <RootPropertyPathName Name="PriceQuoted" />
     <RootPropertyPathName Name="ShoppingDate" />
     <RootPropertyPathName Name="NameOfItem" />
     <RootPropertyPathName Name="ShopName" />
     <RootPropertyPathName Name="ShoppingItemID" />
+=======
+>>>>>>> remotes/origin/feat_PersonalInfo
     <RootPropertyPathName Name="ActualWidth" />
     <RootPropertyPathName Name="ActualHeight" />
     <RootPropertyPathName Name="DateOfTran" />
@@ -108,8 +121,11 @@
       <RootMethod Name="SetRow" />
       <RootMethod Name="GetColumn" />
       <RootMethod Name="SetColumn" />
+<<<<<<< HEAD
       <RootMethod Name="GetRowSpan" />
       <RootMethod Name="SetRowSpan" />
+=======
+>>>>>>> remotes/origin/feat_PersonalInfo
     </RootType>
     <RootType FullName="Windows.UI.Xaml.Controls.StackPanel">
       <RootProperty Name="Orientation" />
@@ -117,7 +133,10 @@
       <RootProperty Name="VerticalAlignment" />
       <RootProperty Name="HorizontalAlignment" />
       <RootProperty Name="Margin" />
+<<<<<<< HEAD
       <RootProperty Name="Height" />
+=======
+>>>>>>> remotes/origin/feat_PersonalInfo
     </RootType>
     <RootType FullName="Windows.UI.Xaml.Controls.TextBlock">
       <RootProperty Name="Text" />
@@ -318,6 +337,10 @@
       <RootProperty Name="TargetObject" />
     </RootType>
     <RootType FullName="StartFinance.Views.MainPage" />
+<<<<<<< HEAD
+=======
+    <RootType FullName="StartFinance.Views.PersonalInfoPage" />
+>>>>>>> remotes/origin/feat_PersonalInfo
     <RootType FullName="StartFinance.ViewModels.SettingsPageViewModel" />
     <RootType FullName="Windows.UI.Xaml.Controls.Border">
       <RootProperty Name="HorizontalAlignment" />
@@ -360,7 +383,10 @@
     </RootType>
     <RootType FullName="Windows.UI.Xaml.Media.Animation.SuppressNavigationTransitionInfo" />
     <RootType FullName="StartFinance.Views.Shell" />
+<<<<<<< HEAD
     <RootType FullName="StartFinance.Views.ShoppingListPage" />
+=======
+>>>>>>> remotes/origin/feat_PersonalInfo
     <RootType FullName="Windows.UI.Xaml.Controls.Canvas">
       <RootProperty Name="HorizontalAlignment" />
       <RootProperty Name="VerticalAlignment" />

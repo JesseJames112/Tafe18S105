@@ -7,9 +7,15 @@ Views\DashBoardPage.xbf
 Views\DebtPage.xbf
 Views\DetailPage.xbf
 Views\MainPage.xbf
+<<<<<<< HEAD
 Views\SettingsPage.xbf
 Views\Shell.xbf
 Views\ShoppingListPage.xbf
+=======
+Views\PersonalInfoPage.xbf
+Views\SettingsPage.xbf
+Views\Shell.xbf
+>>>>>>> remotes/origin/feat_PersonalInfo
 Views\Splash.xbf
 Views\TransactionListPage.xbf
 Views\TransactionPage.xbf

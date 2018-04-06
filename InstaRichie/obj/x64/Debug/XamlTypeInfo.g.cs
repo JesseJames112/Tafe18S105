@@ -233,12 +233,21 @@ namespace StartFinance.Start_Finance_XamlTypeInfo
             _typeNameTable[73] = "Template10.Behaviors.FocusAction";
             _typeNameTable[74] = "Microsoft.Xaml.Interactions.Core.CallMethodAction";
             _typeNameTable[75] = "StartFinance.Views.MainPage";
+<<<<<<< HEAD
             _typeNameTable[76] = "StartFinance.ViewModels.SettingsPageViewModel";
             _typeNameTable[77] = "StartFinance.ViewModels.SettingsPartViewModel";
             _typeNameTable[78] = "StartFinance.ViewModels.AboutPartViewModel";
             _typeNameTable[79] = "StartFinance.Views.SettingsPage";
             _typeNameTable[80] = "StartFinance.Views.Shell";
             _typeNameTable[81] = "StartFinance.Views.ShoppingListPage";
+=======
+            _typeNameTable[76] = "StartFinance.Views.PersonalInfoPage";
+            _typeNameTable[77] = "StartFinance.ViewModels.SettingsPageViewModel";
+            _typeNameTable[78] = "StartFinance.ViewModels.SettingsPartViewModel";
+            _typeNameTable[79] = "StartFinance.ViewModels.AboutPartViewModel";
+            _typeNameTable[80] = "StartFinance.Views.SettingsPage";
+            _typeNameTable[81] = "StartFinance.Views.Shell";
+>>>>>>> remotes/origin/feat_PersonalInfo
             _typeNameTable[82] = "StartFinance.Views.Splash";
             _typeNameTable[83] = "StartFinance.Views.TransactionListPage";
             _typeNameTable[84] = "StartFinance.Views.TransactionPage";
@@ -321,12 +330,21 @@ namespace StartFinance.Start_Finance_XamlTypeInfo
             _typeTable[73] = typeof(global::Template10.Behaviors.FocusAction);
             _typeTable[74] = typeof(global::Microsoft.Xaml.Interactions.Core.CallMethodAction);
             _typeTable[75] = typeof(global::StartFinance.Views.MainPage);
+<<<<<<< HEAD
             _typeTable[76] = typeof(global::StartFinance.ViewModels.SettingsPageViewModel);
             _typeTable[77] = typeof(global::StartFinance.ViewModels.SettingsPartViewModel);
             _typeTable[78] = typeof(global::StartFinance.ViewModels.AboutPartViewModel);
             _typeTable[79] = typeof(global::StartFinance.Views.SettingsPage);
             _typeTable[80] = typeof(global::StartFinance.Views.Shell);
             _typeTable[81] = typeof(global::StartFinance.Views.ShoppingListPage);
+=======
+            _typeTable[76] = typeof(global::StartFinance.Views.PersonalInfoPage);
+            _typeTable[77] = typeof(global::StartFinance.ViewModels.SettingsPageViewModel);
+            _typeTable[78] = typeof(global::StartFinance.ViewModels.SettingsPartViewModel);
+            _typeTable[79] = typeof(global::StartFinance.ViewModels.AboutPartViewModel);
+            _typeTable[80] = typeof(global::StartFinance.Views.SettingsPage);
+            _typeTable[81] = typeof(global::StartFinance.Views.Shell);
+>>>>>>> remotes/origin/feat_PersonalInfo
             _typeTable[82] = typeof(global::StartFinance.Views.Splash);
             _typeTable[83] = typeof(global::StartFinance.Views.TransactionListPage);
             _typeTable[84] = typeof(global::StartFinance.Views.TransactionPage);
@@ -390,12 +408,21 @@ namespace StartFinance.Start_Finance_XamlTypeInfo
         private object Activate_73_FocusAction() { return new global::Template10.Behaviors.FocusAction(); }
         private object Activate_74_CallMethodAction() { return new global::Microsoft.Xaml.Interactions.Core.CallMethodAction(); }
         private object Activate_75_MainPage() { return new global::StartFinance.Views.MainPage(); }
+<<<<<<< HEAD
         private object Activate_76_SettingsPageViewModel() { return new global::StartFinance.ViewModels.SettingsPageViewModel(); }
         private object Activate_77_SettingsPartViewModel() { return new global::StartFinance.ViewModels.SettingsPartViewModel(); }
         private object Activate_78_AboutPartViewModel() { return new global::StartFinance.ViewModels.AboutPartViewModel(); }
         private object Activate_79_SettingsPage() { return new global::StartFinance.Views.SettingsPage(); }
         private object Activate_80_Shell() { return new global::StartFinance.Views.Shell(); }
         private object Activate_81_ShoppingListPage() { return new global::StartFinance.Views.ShoppingListPage(); }
+=======
+        private object Activate_76_PersonalInfoPage() { return new global::StartFinance.Views.PersonalInfoPage(); }
+        private object Activate_77_SettingsPageViewModel() { return new global::StartFinance.ViewModels.SettingsPageViewModel(); }
+        private object Activate_78_SettingsPartViewModel() { return new global::StartFinance.ViewModels.SettingsPartViewModel(); }
+        private object Activate_79_AboutPartViewModel() { return new global::StartFinance.ViewModels.AboutPartViewModel(); }
+        private object Activate_80_SettingsPage() { return new global::StartFinance.Views.SettingsPage(); }
+        private object Activate_81_Shell() { return new global::StartFinance.Views.Shell(); }
+>>>>>>> remotes/origin/feat_PersonalInfo
         private object Activate_83_TransactionListPage() { return new global::StartFinance.Views.TransactionListPage(); }
         private object Activate_84_TransactionPage() { return new global::StartFinance.Views.TransactionPage(); }
         private object Activate_85_WishListPage() { return new global::StartFinance.Views.WishListPage(); }
@@ -1153,46 +1180,82 @@ namespace StartFinance.Start_Finance_XamlTypeInfo
                 xamlType = userType;
                 break;
 
+<<<<<<< HEAD
             case 76:   //  StartFinance.ViewModels.SettingsPageViewModel
                 userType = new global::StartFinance.Start_Finance_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Template10.Mvvm.ViewModelBase"));
                 userType.Activator = Activate_76_SettingsPageViewModel;
                 userType.AddMemberName("SettingsPartViewModel");
                 userType.AddMemberName("AboutPartViewModel");
+=======
+            case 76:   //  StartFinance.Views.PersonalInfoPage
+                userType = new global::StartFinance.Start_Finance_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
+                userType.Activator = Activate_76_PersonalInfoPage;
+>>>>>>> remotes/origin/feat_PersonalInfo
                 userType.SetIsLocalType();
                 xamlType = userType;
                 break;
 
+<<<<<<< HEAD
             case 77:   //  StartFinance.ViewModels.SettingsPartViewModel
                 userType = new global::StartFinance.Start_Finance_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Template10.Mvvm.ViewModelBase"));
                 userType.SetIsReturnTypeStub();
+=======
+            case 77:   //  StartFinance.ViewModels.SettingsPageViewModel
+                userType = new global::StartFinance.Start_Finance_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Template10.Mvvm.ViewModelBase"));
+                userType.Activator = Activate_77_SettingsPageViewModel;
+                userType.AddMemberName("SettingsPartViewModel");
+                userType.AddMemberName("AboutPartViewModel");
+>>>>>>> remotes/origin/feat_PersonalInfo
                 userType.SetIsLocalType();
                 xamlType = userType;
                 break;
 
+<<<<<<< HEAD
             case 78:   //  StartFinance.ViewModels.AboutPartViewModel
+=======
+            case 78:   //  StartFinance.ViewModels.SettingsPartViewModel
+>>>>>>> remotes/origin/feat_PersonalInfo
                 userType = new global::StartFinance.Start_Finance_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Template10.Mvvm.ViewModelBase"));
                 userType.SetIsReturnTypeStub();
                 userType.SetIsLocalType();
                 xamlType = userType;
                 break;
 
+<<<<<<< HEAD
             case 79:   //  StartFinance.Views.SettingsPage
                 userType = new global::StartFinance.Start_Finance_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
                 userType.Activator = Activate_79_SettingsPage;
+=======
+            case 79:   //  StartFinance.ViewModels.AboutPartViewModel
+                userType = new global::StartFinance.Start_Finance_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Template10.Mvvm.ViewModelBase"));
+                userType.SetIsReturnTypeStub();
+>>>>>>> remotes/origin/feat_PersonalInfo
                 userType.SetIsLocalType();
                 xamlType = userType;
                 break;
 
+<<<<<<< HEAD
             case 80:   //  StartFinance.Views.Shell
                 userType = new global::StartFinance.Start_Finance_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
                 userType.Activator = Activate_80_Shell;
+=======
+            case 80:   //  StartFinance.Views.SettingsPage
+                userType = new global::StartFinance.Start_Finance_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
+                userType.Activator = Activate_80_SettingsPage;
+>>>>>>> remotes/origin/feat_PersonalInfo
                 userType.SetIsLocalType();
                 xamlType = userType;
                 break;
 
+<<<<<<< HEAD
             case 81:   //  StartFinance.Views.ShoppingListPage
                 userType = new global::StartFinance.Start_Finance_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
                 userType.Activator = Activate_81_ShoppingListPage;
+=======
+            case 81:   //  StartFinance.Views.Shell
+                userType = new global::StartFinance.Start_Finance_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
+                userType.Activator = Activate_81_Shell;
+>>>>>>> remotes/origin/feat_PersonalInfo
                 userType.SetIsLocalType();
                 xamlType = userType;
                 break;
