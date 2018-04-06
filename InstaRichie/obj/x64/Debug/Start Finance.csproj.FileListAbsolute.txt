@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> remotes/origin/feature_ContactDetails
 C:\Start_Finance\Tafe18S105\InstaRichie\bin\x64\Debug\App.xbf
 C:\Start_Finance\Tafe18S105\InstaRichie\bin\x64\Debug\Styles\Custom.xbf
 C:\Start_Finance\Tafe18S105\InstaRichie\bin\x64\Debug\Views\AccountsPage.xbf
@@ -133,7 +136,10 @@ C:\Start_Finance\Tafe18S105\InstaRichie\bin\x64\Debug\System.Xml.XDocument.dll
 C:\Start_Finance\Tafe18S105\InstaRichie\bin\x64\Debug\System.Xml.XmlDocument.dll
 C:\Start_Finance\Tafe18S105\InstaRichie\bin\x64\Debug\System.Xml.XmlSerializer.dll
 C:\Start_Finance\Tafe18S105\InstaRichie\bin\x64\Debug\Template10Library.dll
+<<<<<<< HEAD
 C:\Start_Finance\Tafe18S105\InstaRichie\obj\x64\Debug\Start Finance.csprojResolveAssemblyReference.cache
+=======
+>>>>>>> remotes/origin/feature_ContactDetails
 C:\Start_Finance\Tafe18S105\InstaRichie\obj\x64\Debug\App.g.i.cs
 C:\Start_Finance\Tafe18S105\InstaRichie\obj\x64\Debug\App.g.cs
 C:\Start_Finance\Tafe18S105\InstaRichie\obj\x64\Debug\Views\AccountsPage.g.i.cs
@@ -266,6 +272,7 @@ C:\Start_Finance\Tafe18S105\InstaRichie\obj\x64\Debug\Microsoft.Xaml.Interaction
 C:\Start_Finance\Tafe18S105\InstaRichie\obj\x64\Debug\Microsoft.Xaml.Interactivity.pri.xml
 C:\Start_Finance\Tafe18S105\InstaRichie\obj\x64\Debug\Template10Library.pri.xml
 C:\Start_Finance\Tafe18S105\InstaRichie\obj\x64\Debug\ProjectArchitectures.txt
+<<<<<<< HEAD
 D:\5TSD\Assignment Files\Start Finance Shopping list\Start_Finance\Tafe18S105\InstaRichie\bin\x64\Debug\App.xbf
 D:\5TSD\Assignment Files\Start Finance Shopping list\Start_Finance\Tafe18S105\InstaRichie\bin\x64\Debug\Styles\Custom.xbf
 D:\5TSD\Assignment Files\Start Finance Shopping list\Start_Finance\Tafe18S105\InstaRichie\bin\x64\Debug\Views\AccountsPage.xbf
@@ -817,3 +824,11 @@ D:\Start_Finance\Tafe18S105\InstaRichie\obj\x64\Debug\Template10Library.pri.xml
 D:\Start_Finance\Tafe18S105\InstaRichie\obj\x64\Debug\ProjectArchitectures.txt
 D:\Start_Finance\Tafe18S105\InstaRichie\obj\x64\Debug\Start Finance.csprojResolveAssemblyReference.cache
 >>>>>>> remotes/origin/feat_PersonalInfo
+=======
+C:\Start_Finance\Tafe18S105\InstaRichie\obj\x64\Debug\Views\ContactDetailsPage.g.i.cs
+C:\Start_Finance\Tafe18S105\InstaRichie\obj\x64\Debug\Views\ContactDetailsPage.g.cs
+C:\Start_Finance\Tafe18S105\InstaRichie\obj\x64\Debug\Views\ContactDetailsPage.xaml
+C:\Start_Finance\Tafe18S105\InstaRichie\obj\x64\Debug\Views\ContactDetailsPage.xbf
+C:\Start_Finance\Tafe18S105\InstaRichie\bin\x64\Debug\Views\ContactDetailsPage.xbf
+C:\Start_Finance\Tafe18S105\InstaRichie\obj\x64\Debug\Start Finance.csprojResolveAssemblyReference.cache
+>>>>>>> remotes/origin/feature_ContactDetails

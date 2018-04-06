@@ -3,10 +3,15 @@ Styles\Custom.xbf
 Views\AccountsPage.xbf
 Views\AssetsPage.xbf
 Views\Busy.xbf
+<<<<<<< HEAD
+=======
+Views\ContactDetailsPage.xbf
+>>>>>>> remotes/origin/feature_ContactDetails
 Views\DashBoardPage.xbf
 Views\DebtPage.xbf
 Views\DetailPage.xbf
 Views\MainPage.xbf
+<<<<<<< HEAD
 <<<<<<< HEAD
 Views\SettingsPage.xbf
 Views\Shell.xbf
@@ -16,6 +21,10 @@ Views\PersonalInfoPage.xbf
 Views\SettingsPage.xbf
 Views\Shell.xbf
 >>>>>>> remotes/origin/feat_PersonalInfo
+=======
+Views\SettingsPage.xbf
+Views\Shell.xbf
+>>>>>>> remotes/origin/feature_ContactDetails
 Views\Splash.xbf
 Views\TransactionListPage.xbf
 Views\TransactionPage.xbf
