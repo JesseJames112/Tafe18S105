@@ -1,9 +1,1 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-D:\5TSD\Assignment Files\Start Finance Shopping list\Start_Finance\Tafe18S105\InstaRichie\Start Finance.csproj;x64
-=======
-D:\Start_Finance\Tafe18S105\InstaRichie\Start Finance.csproj;x64
->>>>>>> remotes/origin/feat_PersonalInfo
-=======
-C:\Start_Finance\Tafe18S105\InstaRichie\Start Finance.csproj;x64
->>>>>>> remotes/origin/feature_ContactDetails
+C:\5TSD assignment\Tafe18S105\InstaRichie\Start Finance.csproj;x64

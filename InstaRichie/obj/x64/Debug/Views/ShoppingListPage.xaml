@@ -122,7 +122,7 @@
 
                     </StackPanel>
                     <ListView x:ConnectionId='10' x:Name="TransactionList" Grid.Row="1" ItemTemplate="{StaticResource TransListView}"
-                              HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
+                              HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Margin="0,71,0,0">
                         <RelativePanel.Below>PageStart</RelativePanel.Below>
                     </ListView>
                 </Grid>

@@ -116,8 +116,9 @@ namespace StartFinance.Views
                 // checks if data is null else inserts
                 try
                 {
-                    int AccountsLabel = ((ShoppingList)TransactionList.SelectedItem).ShoppingItemID;
-                    var querydel = conn.Query<ShoppingList>("DELETE FROM ShoppingList WHERE ShoppingListItemID='" +  + "'");
+                    int ShoppingItemID = ((ShoppingList)TransactionList.SelectedItem).ShoppingItemID;
+                    string ShopName = ((ShoppingList)TransactionList.SelectedItem).ShopName;
+                    var querydel = conn.Query<ShoppingList>("DELETE FROM ShoppingList WHERE ShoppingItemID='" + ShoppingItemID + "' AND ShopName='" + ShopName + "'");
                     Results();
                 }
                 catch (NullReferenceException)
